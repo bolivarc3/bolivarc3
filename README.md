@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carl Bolivar
-- 👀 I’m interested in Computer Science, Tennis, School, technology
-- 🌱 I’m currently learning Flask, Web Development
-- 💞️ I’m looking to collaborate on any beginner project that is cool. :)
+- 👀 I’m interested in Computer Science, Tennis, Technology, and Real Estate
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on a StartUp
 - 📫 How to reach me cabolivar@outlook.com or carlsbolivar@gmail.com
 
 <!---
